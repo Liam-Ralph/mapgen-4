@@ -1,6 +1,8 @@
 # MapGen 4
 ### Released July 2022
 
+<br/>
+
 ## Description
 MapGen 4 is a map generation algorithm that displays
 its output using the turtle.py library. It generates
