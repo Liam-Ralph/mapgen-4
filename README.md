@@ -1,1 +1,9 @@
-A map generator built in Python, based on an algorithm of my design.
+# MapGen 4
+### Released July 2022
+
+## Description
+MapGen 4 is a map generation algorithm that displays
+its output using the turtle.py library. It generates
+rock, land, sand, and water of varying height and depth,
+and can use a number of color presets to change the map's
+appearance.
